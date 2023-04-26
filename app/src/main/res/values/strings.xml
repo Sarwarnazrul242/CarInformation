@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarInformation</string>
+    <string name="market_price">Market Price: %1$s</string>
+    <string name="engine_type">Engine Type: %1$s</string>
+</resources>
